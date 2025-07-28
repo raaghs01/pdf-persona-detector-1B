@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T14:33:43.733762"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Compliance Standard",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Assistant .",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Assistant .",
+      "importance_rank": 4,
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "2. Select  Add Verification Information .",
+      "importance_rank": 5,
+      "page_number": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Do Not Include  Folder  Name  Information \nWhen selected, excludes mail folder names from PDFs.  \nEmbed  Index  For Faster  Search  \nCreates an embedded index,  which speeds up searches, especially when you convert large \nnumbers of email messages or message folders.  \nBlock  Download  Of External  Content \nWhen selected, prevents the downloading of any external Internet content, such as images, \nCSS, and JavaScript.  \nPage Layout  options  \nSpecifies page properties, like the properties found in the Print dialog box: page dimensions, \norientation, and margins.  \nShow  This Number  Of Recent  Archives  (Outlook  only) \nWhen converting email messages and folders, the  Adobe  PDF > [Conver t Selected  \nMessages and Convert  Selected  Folders ] menus can list recently created PDFs to append. This \noption specifies the maximum number of PDFs to list in the menus.  \nShow  “Attach As Adobe  PDF”  Buttons  \nIf selected, the  Attach As Adobe  PDF button appears in the Outlook email message window.  \n \nAutoCAD -specific options on the Settings tab (Acrobat Pro)  \nThe following options appear when you open the PDFMaker settings from within Autodesk \nAutoCAD.  \nCompliance Standard \nSpecify the PDF/A or PDF/E compliance standard, or none.  \nOpen Layers Pane  When Viewed  In Acrobat  \nShows the layers structure when a PDF is opened in Acrobat.  \nEmbed  Scale Information \nPreserves drawing -scale information, which is usable with the Acrobat measurement tools.  \nDo Not Convert  Model  Space To 3D \nWhen selected, the model space layout is not converted to a 3D annotation in the PDF.  \nChoose  Layout  Option  \nSpecifies whether  Current Layout , All Layouts , or Selected  Layouts  are included in the PDF.",
+      "page_number": 8
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills  \n \nWelcome to the ultimate test of your Acrobat exporting skills! Think you know everything \nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test. \nDive into real -world scenarios, answer intriguing questions, and see if you have what it takes \nto be a true PDF exporting pro  \n \n1. Yes or No:  Can you save a PDF in text format to use with a screen reader?  \n2. True or False:  Saving a digitally signed PDF invalidates the signature.  \n3. Scen ario:  Imagine you're working on an important report and your computer crashes. \nDo you rely on the Autosave feature to recover your work or start from scratch?  \n4. Yes or No:  Can you recover the last saved version of a PDF if you accidentally delete it?  \n5. True or  False:  The Autosave feature in Acrobat saves your work every 15 minutes by \ndefault.  \n6. Scenario:  You're preparing a presentation for a big meeting. Do you use Acrobat to \nconvert your PDF to a PowerPoint file or manually recreate the slides?  \n7. Yes or No:  Can yo u export a PDF to a reusable format like Microsoft Word?  \n8. True or False:  Acrobat Reader users can save a copy of a PDF if the creator has enabled \nusage rights.  \n9. Scenario:  You're a graphic designer who needs to save a copy of a PDF Portfolio for a \nclient. Do you use \"File > Save\" or \"File > Save As\"?  \n10. Yes or No:  Does the Autosave feature work if a document's security settings are \nchanged?  \n11. True or False:  You can convert a PDF to a Microsoft PowerPoint presentation using \nAcrobat.  \n12. Scenario:  You're a student who ne eds to convert a PDF to a DOCX file for your thesis. Do \nyou use the \"Convert\" button in Acrobat or retype the entire document?  \n13. Yes or No:  Can you export images from a PDF to another format using Acrobat?  \n14. True or False:  Higher resolutions, like 2400 ppi, ar e suitable for small page sizes.  \n15. Scenario:  You're a photographer who wants to save a PDF as a J",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "If you have questions about the document, scroll to the bottom, and select Ask AI \nAssistant . \n \nStreaming summaries for long PDFs  \nWhen you use Generative summary to scan lengthy PDFs, Acrobat or Acrobat Reader \nprocesses the content in chunks and simultaneously streams summaries of the portions that it \nprocesses. It helps improve your productivity because you can instantly review the output and \nstay engaged.  \nThe key advantages of streaming summaries include:  \n• Real- time  streaming : As Acrobat or A crobat Reader processes a lengthy PDF, it \nconcurrently streams summaries for sections it has already analyzed. It helps eliminate \nany latency associated with summarizing voluminous content.  \n• Segmented  display : When you start generating the summary for your content, you'll \nimmediately see summarized content for the sections that the Generative summary \nfeature finished processing.  \n• Parallel processing : While you engage with the summarized sections, the feature \nextracts headings, and generates summaries for the subsequent sections.  \n \nUse generative AI features in meeting apps  \nYou can harness the power of generative AI features in Acrobat to gain insights from transcripts of online meetings in Microsoft Teams and Zoom. Use the generative AI features to summarize discussions or draft emails for meeting notes or action items.  You can access the generative AI features from Acrobat Reader, Acrobat \ndesktop and online, and Acrobat for Microsoft Teams.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Using AI Assistant in Acrobat mobile  \nAI Assistant  quickly  provides  comprehensive  and informative  answers  to questions based  on \nthe PDF content.  It links  sources  within the document  and suggests  follow -up questions based  \non the primary question.  \nTo start  using  AI Assistant,  perform  the following  steps:  \n1. Open the document you want to work on, and then select AI Assistant .  \nAlternatively, you can also access AI Assistant from the  contextual menu. Select \nthe text for AI Assistant. The contextual menu o pens, then select Ask AI \nAssistant .",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Add verification information at signing \nTo add verification information while  signing:  \n1. Ensure  that your  computer  can connect  to the appropriate  network resources.  \n2. Go to  Preferences  > Signatures  > Creation  & Appearances : More and make sure that \nthe Include  signature’s revocation  status  option is selected.  \n3. Sign the PDF.  \nIf all the elements of the certificate chain are available, the information is added to the PDF \nautomatically. If a timestamp server has been c onfigured, the timestamp is also added.  \n \nAdd verification information after signing \nIn certain workflows, signature validation information may be unavailable during the signing \nbut can be obtained later. For instance, a company official may sign a contract  on a laptop \nwhile traveling without internet access. When internet access is later available, anyone \nvalidating the signature can add timestamping and revocation information to the PDF. \nSubsequent signature validations can also make use of this informatio n. \nTo add verification information after signing:  \n1. Ensure that your computer can connect to the appropriate network resources, and \nthen right-click the signature in the PDF.  \n2. Select  Add Verification Information . \nInformation and methods used to include this long -term validation (LTV) information in the \nPDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) \nstandard.  \nThe command is unavailable if the signature is invalid, or is signed with a self -signed \ncertificate. The command i s also unavailable in case the verification time equals the current \ntime.",
+      "page_number": 11
+    }
+  ]
+}

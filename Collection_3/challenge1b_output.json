@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T14:33:55.021988"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Pulled Pork Sandwiches",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Vegetable Lasagna",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Egg Salad Sandwich",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Carrot Salad",
+      "importance_rank": 4,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Alfredo",
+      "importance_rank": 5,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Chopped parsley for garnish  \n• Cooked couscous for serving  \nInstructions:  \n• In a large pot, heat olive oil over medium heat.  \n• Brown chicken thighs on all sides, then set aside.  \n• Sauté onion and garlic until softened.  \n• Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives.  \n• Return chicken to the pot, cover, and simmer for 45 minutes until tender.  \n• Season with salt and pepper.  \n• Garnish with parsley and serve over couscous.  \n \n \n \nMushroom Risotto  \nIngredients:  \n• 1 cup Arborio rice  \n• 4 cups chicken or vegetable broth  \n• 1 small onion, diced  \n• 2 cloves garlic, minced  \n• 1 cup mushrooms, sliced  \n• 1/2 cup white wine  \n• 1/2 cup grated Parmesan cheese  \n• 2 tablespoons butter  \n• 2 tablespoons olive oil  \n• Salt and pepper to taste  \n• Chopped parsley for garnish  \nInstructions:  \n• Heat broth in a pot and keep warm.  \n• In a large skillet, heat olive oil and 1 tablespoon butter over medium heat.  \n• Sauté onion, garlic, and mushrooms until tender.  \n• Add rice and stir for 1 -2 minutes until lightly toast ed. \n• Pour in white wine and cook until absorbed.  \n• Add warm broth, one ladle at a time, stirring until absorbed before adding more, until \nrice is creamy and tender (about 20 minutes).  \n• Stir in remaining butter and Parmesan cheese, season with salt and pepper.  \n• Garnish with parsley and serve.  \n \n \n \nPulled Pork Sandwiches  \nIngredients:  \n• 2 pounds pork shoulder  \n• 1 small onion, sliced  \n• 2 cloves garlic, minced",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• 1 cup barbecue sauce  \n• 1/2 cup chicken broth  \n• 1 tablespoon brown sugar  \n• 1 teaspoon smoked paprika  \n• Salt and pepper to taste  \n• Buns for serving  \n• Coleslaw for topping (optional)  \nInstructions:  \n• Season pork shoulder with salt, pepper, and smoked paprika.  \n• Place onion and garlic in a slow cooker, then add pork.  \n• Mix barbecue sauce, chicken broth, and brown sugar, and pour over pork.  \n• Cook on low for 8 hours or high for 4 hours until pork shreds easily.  \n• Shred pork with forks and mix with sauce.  \n• Serve on buns with coleslaw if desired.  \n \n \n \nStuffed Chicken Breasts  \nIngredients:  \n• 4 boneless, skinless chicken breasts  \n• 1/2 cup spinach, chopped  \n• 1/2 cup feta cheese, crumbled  \n• 1/4 cup sun -dried tomatoes, chopped  \n• 2 cloves garlic, minced  \n• 2 tablespoons olive oil  \n• Salt and pepper to taste  \nInstructions:  \n• Preheat oven to 375°F (190°C).  \n• Cut a pocket into each chicken breast.  \n• In a bowl, mix spinach, feta, sun -dried tomatoes, and garlic.  \n• Stuff the mixture into the chicken pockets and secure with toothpicks if needed.  \n• Season chicken with salt and pepper.  \n• Heat olive oil in a skillet over medium heat and sear chicken on both sides.  \n• Transfer to a baking dish and ba ke for 20 -25 minutes until cooked through.  \n• Serve warm.  \n \n \n \nVegetable Lasagna  \nIngredients:  \n• 9 lasagna noodles, cooked  \n• 1 small onion, diced  \n• 2 cloves garlic, minced  \n• 1 zucchini, sliced",
+      "page_number": 8
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• 1/4 cup shredded carrots  \n• 1/4 cup baby spinach  \nInstructions:  \n• Lay the tortilla flat and spread the hummus evenly. \n• Add the cucumber, bell pepper, carrots, and spinach. \n• Roll up the tortilla tightly and slice in half. \n \n \n \nEgg Salad Sandwich  \nIngredients:  \n• 4 hard -boiled eggs, chopped  \n• 1/4 cup mayonnaise  \n• 1 tablespoon Dijon mustard  \n• 1 celery stalk, diced  \n• Salt and pepper to taste  \n• 2 slices whole grain bread  \nInstructions:  \n• In a bowl, combine the eggs, mayonnaise, Dijon mustard, and celery.  \n• Season with salt and pepper.  \n• Spread on one slice of bread and top with the second slice.  \n \n \n Pasta Salad  \nIngredients:  \n• 2 cups cooked pasta (such as rotini or penne)  \n• 1/2 cup cherry tomatoes, halved \n• 1/2 cup cucumber, diced  \n• 1/4 cup black olives, sliced  \n• 1/4 cup feta cheese, crumbled  \n• 2 tablespoons olive oil  \n• 1 tablespoon red wine vinegar  \n• Salt and pepper to taste  \nInstructions:  \n• In a large bowl, combine the pasta, tomatoes, cucumber, olives, and feta cheese. \n• Drizzle with olive oil and red wine vinegar.  \n• Season with salt and pepper, then toss to combine.  \n \n \n Chicken and Avocado Salad  \nIngredients:",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 2-3 Thai chilies  \no 2 tablespoons fish sauce  \no 2 tablespoons tamarind paste  \no 1 tablespoon sugar  \no 1/4 cup cilantro  \n• Instructions : \no Bring fish stock to a boil.  \no Add lemongrass, chilies, and tamarind paste, simmer for 10 minutes.  \no Add pineapple, tomatoes, and fish fillets, cook until fish is done.  \no Stir in fish sauce, sugar, and bean sprouts.  \no Garnish with chopped cilantro and serve.  \n \nCaprese Salad  \n• Ingredients : \no 4 tomatoes  \no 1 pound fre sh mozzarella  \no 1/4 cup basil  \no 2 tablespoons olive oil  \no 1 tablespoon balsamic glaze  \no 1 teaspoon salt  \n• Instructions : \no Slice tomatoes and mozzarella.  \no Arrange on a plate, alternating slices.  \no Sprinkle with chopped basil, olive oil, balsamic glaze, and salt.  \no Serve immediately.  \n \nCarrot Salad  \n• Ingredients : \no 4 carrots  \no 1/4 cup raisins  \no 1/4 cup parsley  \no 1/4 cup lemon juice  \no 1/4 cup olive oil  \no 1 teaspoon cumin  \no 1 teaspoon salt  \n• Instructions : \no Grate carrots and mix with raisins and chopped parsley.  \no Whisk lemon juice, olive oil, cum in, and salt, then pour over salad.  \no Toss well and serve chilled.  \n \nCeviche  \n• Ingredients : \no 1 pound fresh fish or shrimp  \no 1 cup lime juice",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings  \nInstructions:  \n• In a skillet, cook ground beef over medium heat until browned.  \n• Add diced onion and minced garlic, sauté until softened.  \n• Stir in taco seasoning and water, simmer until thickened.  \n• Serve beef m ixture in taco shells or tortillas with desired toppings.  \n \n \n \nLasagna  \nIngredients:  \n• 1 pound ground beef  \n• 1 small onion, diced  \n• 2 cloves garlic, minced  \n• 1 jar (24 ounces) marinara sauce  \n• 1 can (15 ounces) ricotta cheese  \n• 1 egg  \n• 1/4 cup grated Parmesan cheese  \n• 1 teaspoon dried basil  \n• 1 teaspoon dried oregano  \n• 9 lasagna noodles, cooked  \n• 2 cups shredded mozzarella cheese  \nInstructions:  \n• Preheat oven to 375°F (190°C).  \n• In a skillet, cook ground beef, diced onion, and minced garlic until browned.  \n• Stir in marinara sauce and simmer for 10 minutes.  \n• In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano.  \n• Spread a thin layer of meat sauce in a baking dish.  \n• Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 \nof the shred ded mozzarella cheese.  \n• Repeat layers twice more.  \n• Cover with foil and bake for 25 minutes.  \n• Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly.  \n• Let stand for 10 minutes before serving.  \n \n \n \nChicken Alfredo  \nIngredients:  \n• 4 boneless, skinless chicken breasts  \n• 1 pound fettuccine  \n• 1 cup heavy cream  \n• 1/2 cup grated Parmesan cheese  \n• 1/4 cup butter",
+      "page_number": 5
+    }
+  ]
+}
