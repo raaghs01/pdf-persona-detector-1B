@@ -220,12 +220,7 @@ The `MLHeadingClassifier` provides advanced heading detection:
 - **Add preprocessing**: Extend `parser.py` with custom text cleaning
 - **Enhance scoring**: Modify `scorer.py` for different content extraction strategies
 
-### Training Custom Models
 
-The ML classifier can be retrained with new data:
-1. Prepare training data in CSV format
-2. Update `ml_classifier.py` with new features
-3. Retrain the model and save with joblib
 
 ## 🐛 Troubleshooting
 
