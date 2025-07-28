@@ -250,9 +250,6 @@ The ML classifier can be retrained with new data:
 - Process large PDF collections in batches
 - Consider caching embeddings for repeated queries
 
-## 📄 License
-
-[Add your license information here]
 
 ## 🤝 Contributing
 
@@ -262,13 +259,4 @@ The ML classifier can be retrained with new data:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📞 Support
 
-For issues and questions:
-- Create an issue in the repository
-- Check the troubleshooting section above
-- Review the code comments for implementation details
-
----
-
-**Note**: This system is designed for research and educational purposes. Ensure you have proper permissions for any PDF documents you process. 
